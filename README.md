@@ -1,5 +1,12 @@
 # Robótica Rádio Controlada: Manual de Construção para Futebol e Combate
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Arduino](https://img.shields.io/badge/Arduino-Compatible-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-Compatible-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![Language](https://img.shields.io/badge/Language-C%2FC++-blue?logo=cplusplus)](https://isocpp.org/)
+[![Version](https://img.shields.io/badge/Version-1.0-green)](https://github.com/thomazrb/robotica-radio-controlada/releases)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/thomazrb/robotica-radio-controlada)
+
 Manual técnico prático sobre robótica rádio controlada focado em aplicações reais para robôs de futebol (categoria 500g) e robôs de combate (categoria beetleweight 1,4kg) rádio controlados, nas competições existentes no IFES Campus São Mateus.
 
 ## Sobre o Manual
